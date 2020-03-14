@@ -1,5 +1,5 @@
 # TravelWebTheme
-Travel website theme made in HTML with Material Design
+Travel website theme made in HTML/CSS with Materialize. 
 
 
 
